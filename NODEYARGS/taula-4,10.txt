@@ -1,0 +1,11 @@
+4*1=  4
+.yellow4*2=  8
+.yellow4*3=  12
+.yellow4*4=  16
+.yellow4*5=  20
+.yellow4*6=  24
+.yellow4*7=  28
+.yellow4*8=  32
+.yellow4*9=  36
+.yellow4*10=  40
+.yellow
